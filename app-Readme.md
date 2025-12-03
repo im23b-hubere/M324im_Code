@@ -14,7 +14,7 @@ WALK
 ```
 or direct call with node
 ```
-$ node index.js red
+$ node app.js red
 Traffic light is red
 DON'T WALK!                        
 ...
