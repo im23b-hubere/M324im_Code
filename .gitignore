@@ -12,3 +12,5 @@ repo.sh
 03/03_Solutions/04/prep.sh
 03/03_Solutions/04/repo-demo.sh
 03/03_Solutions/04/scp.sh
+node_modules/
+package-lock.json
